@@ -1,2 +1,2 @@
-# temp-mail
+# php-temp-mail
 PHP client for temp-mail.ru
